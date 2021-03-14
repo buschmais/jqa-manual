@@ -3,6 +3,7 @@
 :tip-caption: 💡
 :sectnums:
 
+include::integrations.adoc[leveloffset=+1]
 include::{docRoot}/com/buschmais/jqassistant/core/rule/index.adoc[leveloffset=+1]
 
 //
