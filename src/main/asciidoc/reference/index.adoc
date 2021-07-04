@@ -66,11 +66,7 @@ The documentation of this plugin is still only the section
 <<../manual/index.html#json-plugin,JSON Plugin>>
 of the jQAssistant Manual available.
 
-== JUnit Plugin
-
-The documentation of this plugin is still only the section
-<<../manual/index.html#junit-plugin,JUnit Plugin>>
-of the jQAssistant Manual available.
+include::{docRoot}/com/buschmais/jqassistant/plugin/junit/api/model/index.adoc[leveloffset=+1]
 
 == Maven 2 Repository Plugin
 
